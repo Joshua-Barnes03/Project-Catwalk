@@ -38,8 +38,10 @@ Contributors names and contact info
 
 Shanna Murry
   * [shannamurry] (https://github.com/shannamurry)
+
 June Lee
   * [juneisenuj] (https://github.com/juneisenuj)
+
 Joshua Barnes
   * [Joshua-Barnes03] (https://github.com/Joshua-Barnes03)
 
